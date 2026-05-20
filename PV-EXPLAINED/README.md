@@ -16,11 +16,11 @@ To better understand this concept, let us imagine two different situations.
 ![PV Formula](Obraz1.jpg)
 
 
-Situation A
+## Situation A
 A friend of ours — a very intelligent, hardworking, and trustworthy person — comes to us and says that, as a thank you for some help we once gave him, he will give us £10,000 in 5 years’ time. The help does not necessarily have to be financial — it could have been helping him move house, mowing his lawn, or assisting him with something important. The key point is that he promises us a one-time payment of £10,000 after 5 years.
 
 
-Situation B
+## Situation B
 The same friend offers us a different arrangement. Instead of making one payment in 5 years, he will pay us £2,000 every year for the next 5 years. In total, we will still receive £10,000 of cash flow, but the money will be received gradually over time.
 Looking at these two situations, an important question arises:
 	Which option is financially more beneficial? 
