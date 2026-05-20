@@ -13,7 +13,7 @@ To better understand this concept, let us imagine two different situations.
  
 To better understand this concept, let us imagine two different situations.
 
-![PV Formula](pv-formula.png)
+![PV Formula](Obraz1.jpg)
 
 
 Situation A
