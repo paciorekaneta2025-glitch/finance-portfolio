@@ -43,10 +43,10 @@ Simply put, the discount rate is a kind of:
 “future discount applied today.”
 The higher the discount rate, the greater the risk and the lower the value of future cash flows. On the other hand, a lower discount rate indicates lower risk and a higher present value of future money.
 Therefore, the discount rate shows how much future money loses value because of:
-	* the passage of time, 
-	* risk, 
-	* inflation, 
-	* alternative investment opportunities.
+	- the passage of time, 
+	- risk, 
+	- inflation, 
+	- alternative investment opportunities.
 
 
 ## 4. Calculation
