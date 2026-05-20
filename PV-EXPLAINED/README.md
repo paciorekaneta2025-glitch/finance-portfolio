@@ -61,8 +61,9 @@ Therefore, for our calculations, we will assume:
 Discount Rate=3%
 Now we can move on to calculating the Present Value for both situations and determine which option is financially more beneficial.
 
- 
+ ![PV Formula](Obraz2.png)
 
+ ![PV Formula](Obraz3.png)
  
 Despite having the same nominal cash flow, Situation B generates a higher Present Value.
 
@@ -102,7 +103,6 @@ That is why:
 	time and investment opportunities play a major role in finance. 
 This demonstrates why, in business and finance, it is important not only how much money we receive, but also when we receive it.
 
-## PV Formula example
-![PV Formula](pv-formula.jpg)
+
 
 
