@@ -43,22 +43,24 @@ Simply put, the discount rate is a kind of:
 “future discount applied today.”
 The higher the discount rate, the greater the risk and the lower the value of future cash flows. On the other hand, a lower discount rate indicates lower risk and a higher present value of future money.
 Therefore, the discount rate shows how much future money loses value because of:
-	the passage of time, 
-	risk, 
-	inflation, 
-	alternative investment opportunities.
+	* the passage of time, 
+	* risk, 
+	* inflation, 
+	* alternative investment opportunities.
 
 
 ## 4. Calculation
 Let us assume that our friend is reliable, trustworthy, and hardworking. We trust him and are almost certain that he will keep his promise. Because of this, we can assume a relatively low discount rate of 3%.
 Such a discount rate is often associated with very safe projects — for example government or infrastructure projects — where the risk of bankruptcy or non-payment is relatively low. We could say that we trust our friend almost as much as investors trust government bonds.
 Of course, in real finance, higher risk would normally result in a higher discount rate. However, in our example, we assume that:
-	our friend is financially reliable, 
-	he has a stable financial situation, 
-	he is responsible, 
-	and the probability that he fails to keep his promise is very low. 
+	* our friend is financially reliable, 
+	* he has a stable financial situation, 
+	* he is responsible, 
+	* and the probability that he fails to keep his promise is very low. 
 Therefore, for our calculations, we will assume:
-# Discount Rate=3%
+
+ Discount Rate=3%
+
 Now we can move on to calculating the Present Value for both situations and determine which option is financially more beneficial.
 
  ![PV Formula](Obraz2.png)
@@ -77,20 +79,20 @@ Business valuation is largely based on projected future cash flows. PV helps con
 Banks and financial institutions use PV to calculate the value of loans, lease payments, and interest rates. In practice, most financial products are based on discounting future payments.
 • Business Project Analysis
 Companies regularly evaluate different types of projects, such as:
-	building new factories, 
-	purchasing machinery, 
-	technology investments, 
-	expansion into new markets. 
+	* building new factories, 
+	* purchasing machinery, 
+	* technology investments, 
+	* expansion into new markets. 
 PV helps determine whether future benefits outweigh the costs of the investment.
 • Real Estate
 Real estate investors use PV to estimate the value of future rental income and the potential future sale value of properties.
 • Financial Modeling and FP&A
 In FP&A (Financial Planning & Analysis) departments, PV is a fundamental part of financial modeling, forecasting, and scenario analysis. Analysts use PV for:
-	forecasting, 
-	budgeting, 
-	project valuation, 
-	risk analysis, 
-	strategic decision-making. 
+	* forecasting, 
+	* budgeting, 
+	* project valuation, 
+	* risk analysis, 
+	* strategic decision-making. 
 Therefore, it can be said that Present Value is one of the foundations of modern finance and business.
 
 ## 6. Conclusion
@@ -98,9 +100,9 @@ From a financial perspective, Situation B turns out to be the more beneficial op
 In Situation A, we must wait 5 years to receive the one-time payment of £10,000. During that time, money loses value, and we also lose the opportunity to use those funds earlier.
 Although both situations generate the same nominal cash flow of £10,000, their Present Value is different. Receiving money gradually over time is more valuable than receiving the same amount only in the future.
 That is why:
-	the PV of Situation B is higher than the PV of Situation A, 
-	earlier cash flows are more valuable, 
-	time and investment opportunities play a major role in finance. 
+	* the PV of Situation B is higher than the PV of Situation A, 
+	* earlier cash flows are more valuable, 
+	* time and investment opportunities play a major role in finance. 
 This demonstrates why, in business and finance, it is important not only how much money we receive, but also when we receive it.
 
 
