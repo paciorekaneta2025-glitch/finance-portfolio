@@ -58,7 +58,7 @@ Of course, in real finance, higher risk would normally result in a higher discou
 	he is responsible, 
 	and the probability that he fails to keep his promise is very low. 
 Therefore, for our calculations, we will assume:
-Discount Rate=3%
+# Discount Rate=3%
 Now we can move on to calculating the Present Value for both situations and determine which option is financially more beneficial.
 
  ![PV Formula](Obraz2.png)
