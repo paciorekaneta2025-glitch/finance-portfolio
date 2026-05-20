@@ -13,6 +13,8 @@ To better understand this concept, let us imagine two different situations.
  
 To better understand this concept, let us imagine two different situations.
 
+![PV Formula](pv-formula.jpg)
+
 
 Situation A
 A friend of ours — a very intelligent, hardworking, and trustworthy person — comes to us and says that, as a thank you for some help we once gave him, he will give us £10,000 in 5 years’ time. The help does not necessarily have to be financial — it could have been helping him move house, mowing his lawn, or assisting him with something important. The key point is that he promises us a one-time payment of £10,000 after 5 years.
@@ -99,5 +101,8 @@ That is why:
 	earlier cash flows are more valuable, 
 	time and investment opportunities play a major role in finance. 
 This demonstrates why, in business and finance, it is important not only how much money we receive, but also when we receive it.
+
+## PV Formula example
+![PV Formula](pv-formula.jpg)
 
 
