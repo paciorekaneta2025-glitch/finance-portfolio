@@ -81,7 +81,7 @@ Of course, in real finance, higher risk would normally result in a higher discou
 
 Therefore, for our calculations, we will assume:
 
- Discount Rate=3%
+                                                 Discount Rate=3%
 
 Now we can move on to calculating the Present Value for both situations and determine which option is financially more beneficial.
 
@@ -99,12 +99,15 @@ Present Value (PV) is one of the most important concepts used in finance and bus
 Companies often analyze whether a particular investment will be profitable. PV allows them to compare future profits with costs incurred today. As a result, businesses can assess whether a project makes financial sense.
 
 • Company and Startup Valuation
+
 Business valuation is largely based on projected future cash flows. PV helps convert those future cash inflows into their current value.
 
 • Loans and Leasing
+
 Banks and financial institutions use PV to calculate the value of loans, lease payments, and interest rates. In practice, most financial products are based on discounting future payments.
 
 • Business Project Analysis
+
 Companies regularly evaluate different types of projects, such as:
 	
 	* building new factories, 
@@ -118,9 +121,11 @@ Companies regularly evaluate different types of projects, such as:
 PV helps determine whether future benefits outweigh the costs of the investment.
 
 • Real Estate
+
 Real estate investors use PV to estimate the value of future rental income and the potential future sale value of properties.
 
 • Financial Modeling and FP&A
+
 In FP&A (Financial Planning & Analysis) departments, PV is a fundamental part of financial modeling, forecasting, and scenario analysis. Analysts use PV for:
 	
 	* forecasting, 
