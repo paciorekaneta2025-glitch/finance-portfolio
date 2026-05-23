@@ -49,7 +49,8 @@ In practice, the discount rate also depends on:
 	* and alternative investment opportunities. 
 
 Simply put, the discount rate can be described as:
-                    “a reduction in the value of the future already applied today.”
+                  #### “a reduction in the value of the future already applied today.”
+				  
 The higher the discount rate, the greater the risk and the lower the value of future cash flows. On the other hand, a lower discount rate means lower risk and a higher present value of future money.
 
 The discount rate therefore shows how much future money loses value because of:
@@ -62,6 +63,7 @@ The discount rate therefore shows how much future money loses value because of:
 ## 4. Calculation
 
 Let us assume that our friend is reliable, trustworthy, and hardworking. We trust him and are almost certain that he will keep his promise. Therefore, we can assume a relatively low discount rate of 3%.
+
 It is important to emphasize that such a low discount rate is often associated with very safe projects — for example, government or infrastructure projects — where the risk of default or bankruptcy is relatively low. In a way, by using such a low discount rate, we trust our friend almost as much as investors trust a government paying returns on treasury bonds.
 
 Of course, in real-world finance, higher risk would usually result in a higher discount rate. However, in our example, we assume that:
@@ -73,7 +75,7 @@ Of course, in real-world finance, higher risk would usually result in a higher d
 
 Therefore, for our further calculations, we will assume:
 
-                                               "Discount Rate"=3%
+                                               ####"Discount Rate"=3%
 
  <p align="center">
 	 <img src="Obraz5NPV.jpg" width="700">
@@ -85,11 +87,13 @@ Therefore, for our further calculations, we will assume:
 
 
 Now we can move on to calculating the Net Present Value (NPV) for both situations and determine which option is financially more beneficial.
+
 Despite having the same nominal cash flow, Situation B generates a higher Net Present Value.
 
 ## 5. Why Do Companies Use NPV?
 
 Net Present Value (NPV) is one of the most important methods used in finance and business. Companies use NPV because it helps determine whether an investment will truly generate value and profit after taking into account both the investment cost and the time value of money.
+
 NPV helps convert future cash flows into their present value and then compare them with the initial investment cost.
 
 If:
@@ -158,7 +162,9 @@ It can therefore be said that Net Present Value (NPV) is one of the foundations 
 ## 6. Conclusion
 
 Situation B turns out to be financially more beneficial. Why? Because we receive money gradually starting from the first year, rather than waiting until the end of year 5. This means the funds become available to us earlier and can be additionally used — for example, invested, saved, or allocated toward business growth.
+
 In Situation A, we must wait 5 years for a single payment of £10,000. During that time, money loses part of its value due to the time value of money. Additionally, we lose the opportunity to use those funds earlier.
+
 Although the nominal cash flow in both cases equals £10,000, their Net Present Value (NPV) is different. Receiving money gradually over time is more valuable than receiving the same amount only in the future.
 That is why:
 
