@@ -5,7 +5,8 @@ Aneta Paciorek, MAAT, ACCA Part-Qualified
 ## 1. Introduction
 
 If you are reading this article, you have probably already read the section about Present Value (PV). If not, I invite you to read the previous article available on GitHub:
-Present Value Explained Simply – GitHub
+Present Value Explained Simply – GitHub.
+
 Today, students of finance, economics, and related fields are expected not only to possess theoretical knowledge, but also practical analytical skills, an understanding of financial modelling, and the ability to interpret business data.
 That is exactly why this series of articles was created. Its purpose is to explain fundamental financial concepts in a simple, practical, and easy-to-understand way. It is intended for people who want to move beyond academic theory, start experimenting with financial modelling, and better understand how finance works in real business situations.
 This series is aimed particularly at individuals beginning their journey in finance, FP&A, business analysis, or financial modelling — before the job market starts expecting years of professional experience from them.
