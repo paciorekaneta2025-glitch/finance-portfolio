@@ -36,10 +36,10 @@ The discount rate can be understood as the cost of time, the cost of risk, and t
 
 In practice, the discount rate also depends on:
 
-  the type of industry, 
-	the level of project risk, 
-	economic conditions, 
-	and alternative investment opportunities. 
+    *the type of industry, 
+	*the level of project risk, 
+	*economic conditions, 
+	*and alternative investment opportunities. 
 
 Simply put, the discount rate can be described as:
                     “a reduction in the value of the future already applied today.”
@@ -47,10 +47,10 @@ The higher the discount rate, the greater the risk and the lower the value of fu
 
 The discount rate therefore shows how much future money loses value because of:
 
-  the passage of time, 
-	risk, 
-	inflation, 
-	alternative investment opportunities. 
+    *the passage of time, 
+	*risk, 
+	*inflation, 
+	*alternative investment opportunities. 
 
 ## 4. Calculation
 
@@ -59,10 +59,10 @@ It is important to emphasize that such a low discount rate is often associated w
 
 Of course, in real-world finance, higher risk would usually result in a higher discount rate. However, in our example, we assume that:
 
-  our friend is credible, 
-	he has a stable financial situation, 
-	he is responsible, 
-	and the probability that he will fail to keep his promise is very low. 
+    *our friend is credible, 
+	*he has a stable financial situation, 
+	*he is responsible, 
+	*and the probability that he will fail to keep his promise is very low. 
 
 Therefore, for our further calculations, we will assume:
 
@@ -78,9 +78,9 @@ NPV helps convert future cash flows into their present value and then compare th
 
 If:
 
-  NPV > 0 → the investment potentially generates profit, 
-	NPV = 0 → the investment earns exactly the cost of capital, 
-	NPV < 0 → the investment may be unprofitable. 
+    *NPV > 0 → the investment potentially generates profit, 
+	*NPV = 0 → the investment earns exactly the cost of capital, 
+	*NPV < 0 → the investment may be unprofitable. 
 
 • Investment Evaluation
 
@@ -92,10 +92,10 @@ Business valuation is largely based on forecasted future cash flows. NPV helps d
 
 This method is widely used in:
 
-  startup valuation, 
-	company acquisitions, 
-	venture capital analysis, 
-	DCF (Discounted Cash Flow) models. 
+    *startup valuation, 
+	*company acquisitions, 
+	*venture capital analysis, 
+	*DCF (Discounted Cash Flow) models. 
 
 • Loans and Leasing
 
@@ -105,20 +105,20 @@ Banks and financial institutions use discounting mechanisms to calculate the val
 
 Companies regularly analyse different investment projects, such as:
 
-  building new factories, 
-	purchasing machinery, 
-	technology investments, 
-	expansion into new markets. 
+   *building new factories, 
+   *purchasing machinery, 
+   *technology investments, 
+   *expansion into new markets. 
 
 NPV helps determine whether future financial benefits will outweigh investment costs and whether a project will increase the value of the business.
 
 Examples of practical NPV applications include:
 
-  purchasing new machinery, 
-	building factories, 
-	IT investments, 
-	purchasing rental properties, 
-	startup valuation. 
+  *purchasing new machinery, 
+  *building factories, 
+  *IT investments, 
+  *purchasing rental properties, 
+  *startup valuation. 
 
 • Real Estate
 
@@ -130,12 +130,12 @@ In FP&A (Financial Planning & Analysis) departments, NPV is one of the foundatio
 
 Analysts use NPV for:
 
-  forecasting, 
-	budgeting, 
-	project valuation, 
-	risk analysis, 
-	strategic decision-making, 
-	investment profitability assessment. 
+  *forecasting, 
+  *budgeting, 
+  *project valuation, 
+  *risk analysis, 
+  *strategic decision-making, 
+  *investment profitability assessment. 
 
 It can therefore be said that Net Present Value (NPV) is one of the foundations of modern finance, investment analysis, and business decision-making.
 
