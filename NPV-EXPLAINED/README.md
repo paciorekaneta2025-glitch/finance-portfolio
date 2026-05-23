@@ -16,7 +16,7 @@ This series is aimed particularly at individuals beginning their journey in fina
 Today’s article is dedicated to the concept of NPV, which stands for Net Present Value — the present value of future money.
 NPV shows how much value an investment adds after taking into account both the initial investment cost and the time value of money.
 
- <p align="center"
+ <p align="center">
 	 <img src="images/Obraz4NPV.jpg" width="700">
  </p>
   
@@ -73,11 +73,11 @@ Therefore, for our further calculations, we will assume:
 
                                                "Discount Rate"=3%
 
- <p align="center"
+ <p align="center">
 	 <img src="images/Obraz5NPV.jpg" width="700">
  </p>
 
- <p align="center"
+ <p align="center">
 	 <img src="images/Obraz6NPV.jpg" width="700">
  </p>
 
