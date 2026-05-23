@@ -49,7 +49,8 @@ In practice, the discount rate also depends on:
 	* and alternative investment opportunities. 
 
 Simply put, the discount rate can be described as:
-                  #### “a reduction in the value of the future already applied today.”
+                
+				  #### “a reduction in the value of the future already applied today.”
 				  
 The higher the discount rate, the greater the risk and the lower the value of future cash flows. On the other hand, a lower discount rate means lower risk and a higher present value of future money.
 
