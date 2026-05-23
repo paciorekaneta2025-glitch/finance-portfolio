@@ -3,12 +3,12 @@ Aneta Paciorek, MAAT, ACCA Part-Qualified
 20.05.2026
 
 ##  Contents
-- 1.Introduction
-- 2.What is Present Value (PV)?
-- 3.Discount Rate
-- 4.Calculation
-- 5.Why Do Companies Use Present Value (PV)?
-- 6.Conclusion
+- Introduction
+- What is Present Value (PV)?
+- Discount Rate
+- Calculation
+- Why Do Companies Use Present Value (PV)?
+- Conclusion
 
 ## 1. Introduction
 Many students of finance, economics, and related fields graduate after several years of study with strong theoretical knowledge and high hopes for a successful career start. However, during their very first job interviews, they often discover that theory alone is not enough. Employers expect practical experience, analytical skills, Financial Modeling knowledge, and the ability to interpret business data.
