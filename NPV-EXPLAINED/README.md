@@ -18,11 +18,11 @@ NPV shows how much value an investment adds after taking into account both the i
  
 To better understand this concept, let us imagine two situations.
 
-## Situation A
+##### Situation A
 
 We meet with a very good friend of ours. He is a highly capable, hardworking, and responsible person with financial stability. He asks us to invest £2,000 in his new business today. In return, he promises a one-time payment of £10,000 after 5 years.
 
-## Situation B
+##### Situation B
 
 The same friend offers a different solution. Instead of a single payment after 5 years, he will pay us £2,000 per year for the next 5 years in exchange for investing £2,000 in his business today. In total, we will still receive £10,000 in cash flow, but the money will be received gradually each year.
 Looking at these two situations, an important question arises:
