@@ -82,7 +82,7 @@ If:
 	* NPV = 0 → the investment earns exactly the cost of capital, 
 	* NPV < 0 → the investment may be unprofitable. 
 
-# • Investment Evaluation
+###  Investment Evaluation
 
 Companies often analyse whether a particular investment will be profitable. NPV allows future financial benefits to be compared with costs incurred today. This helps determine whether a project makes economic sense and whether it will increase the company’s value.
 
