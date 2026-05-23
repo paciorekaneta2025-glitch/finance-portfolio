@@ -22,7 +22,7 @@ To better understand this concept, let us imagine two different situations.
 To better understand this concept, let us imagine two different situations.
 
 <p align="center">
-	img src="images/Obraz1.jpg" width="750">
+	<img src="images/Obraz1.jpg" width="750">
 	</p>
 
 ## Situation A
@@ -95,11 +95,11 @@ Therefore, for our calculations, we will assume:
 Now we can move on to calculating the Present Value for both situations and determine which option is financially more beneficial.
 
  <p align="center">
-	img src="images/Obraz2.png" width="750">
+	<img src="images/Obraz2.png" width="750">
 	</p>
 
  <p align="center">
-	img src="images/Obraz3.png" width="750">
+	<img src="images/Obraz3.png" width="750">
 	</p>
  
 Despite having the same nominal cash flow, Situation B generates a higher Present Value.
