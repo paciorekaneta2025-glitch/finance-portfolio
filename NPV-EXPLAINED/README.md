@@ -17,7 +17,7 @@ Today’s article is dedicated to the concept of NPV, which stands for Net Prese
 NPV shows how much value an investment adds after taking into account both the initial investment cost and the time value of money.
 
  <p align="center">
-	 <img src="images/Obraz4NPV.jpg" width="700">
+	 <img src="Obraz4NPV.jpg" width="700">
  </p>
   
 To better understand this concept, let us imagine two situations.
