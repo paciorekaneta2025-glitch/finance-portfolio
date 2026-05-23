@@ -33,11 +33,11 @@ These are exactly the types of questions that the concept of Present Value (PV) 
 To solve our problem and compare both situations, we first need to determine an appropriate discount rate, expressed as a percentage (%). The discount rate allows us to estimate how much less future money is worth compared to money available today.
 The discount rate can be understood as:
 
-	* the cost of time, 
+	 the cost of time, 
 	
-	* the cost of risk,
+	 the cost of risk,
 	
-	* the loss of money value over time. 
+	 the loss of money value over time. 
 
 It also reflects the fact that money received today could potentially be invested and generate additional returns in the future.
 In practice, the discount rate depends on many factors, including:
