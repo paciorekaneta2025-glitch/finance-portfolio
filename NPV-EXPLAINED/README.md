@@ -76,7 +76,7 @@ Of course, in real-world finance, higher risk would usually result in a higher d
 
 Therefore, for our further calculations, we will assume: 
 
-####"Discount Rate"=3%
+* "Discount Rate"=3%
 
  <p align="center">
 	 <img src="Obraz5NPV.jpg" width="700">
