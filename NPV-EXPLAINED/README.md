@@ -99,9 +99,9 @@ NPV helps convert future cash flows into their present value and then compare th
 
 If:
 
-    * NPV > 0 → the investment potentially generates profit, 
-	* NPV = 0 → the investment earns exactly the cost of capital, 
-	* NPV < 0 → the investment may be unprofitable. 
+     NPV > 0 → the investment potentially generates profit, 
+	 NPV = 0 → the investment earns exactly the cost of capital, 
+	 NPV < 0 → the investment may be unprofitable. 
 
 ###  Investment Evaluation
 
