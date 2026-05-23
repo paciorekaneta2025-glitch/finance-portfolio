@@ -1,6 +1,6 @@
 # Net Present Value (NPV) Explained in Simple Terms
 Aneta Paciorek, MAAT, ACCA Part-Qualified
-21.05.2026
+22.05.2026
 
 ## 1. Introduction
 
