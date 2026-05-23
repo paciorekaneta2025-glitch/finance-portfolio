@@ -2,6 +2,14 @@
 Aneta Paciorek, MAAT, ACCA Part-Qualified
 20.05.2026
 
+##  Contents
+- 1.Introduction
+- 2.What is Present Value (PV)?
+- 3. Discount Rate
+- 4. Calculation
+- 5. Why Do Companies Use Present Value (PV)?
+- 6. Conclusion
+
 ## 1. Introduction
 Many students of finance, economics, and related fields graduate after several years of study with strong theoretical knowledge and high hopes for a successful career start. However, during their very first job interviews, they often discover that theory alone is not enough. Employers expect practical experience, analytical skills, Financial Modeling knowledge, and the ability to interpret business data.
 That is exactly why this article series was created. Its purpose is to explain fundamental financial concepts in a simple, practical, and easy-to-understand way. It is aimed at people who want to go beyond academic theory, start experimenting with Financial Modeling, and better understand how finance works in real business situations.
@@ -13,8 +21,9 @@ To better understand this concept, let us imagine two different situations.
  
 To better understand this concept, let us imagine two different situations.
 
-![PV Formula](Obraz1.jpg)
-
+<p align="center">
+	<>img src="images/Obraz1.jpg" width="750">
+	</p>
 
 ## Situation A
 A friend of ours — a very intelligent, hardworking, and trustworthy person — comes to us and says that, as a thank you for some help we once gave him, he will give us £10,000 in 5 years’ time. The help does not necessarily have to be financial — it could have been helping him move house, mowing his lawn, or assisting him with something important. The key point is that he promises us a one-time payment of £10,000 after 5 years.
@@ -85,9 +94,13 @@ Therefore, for our calculations, we will assume:
 
 Now we can move on to calculating the Present Value for both situations and determine which option is financially more beneficial.
 
- ![PV Formula](Obraz2.png)
+ <p align="center">
+	<>img src="images/Obraz2.png" width="750">
+	</p>
 
- ![PV Formula](Obraz3.png)
+ <p align="center">
+	<>img src="images/Obraz3.png" width="750">
+	</p>
  
 Despite having the same nominal cash flow, Situation B generates a higher Present Value.
 
