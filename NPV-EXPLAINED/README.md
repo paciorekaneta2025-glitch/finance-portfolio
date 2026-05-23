@@ -86,7 +86,7 @@ If:
 
 Companies often analyse whether a particular investment will be profitable. NPV allows future financial benefits to be compared with costs incurred today. This helps determine whether a project makes economic sense and whether it will increase the company’s value.
 
-# • Company and Startup Valuation
+###  Company and Startup Valuation
 
 Business valuation is largely based on forecasted future cash flows. NPV helps determine how much those future cash inflows are worth today after considering both risk and time.
 
@@ -97,11 +97,11 @@ This method is widely used in:
 	* venture capital analysis, 
 	* DCF (Discounted Cash Flow) models. 
 
-# • Loans and Leasing
+### Loans and Leasing
 
 Banks and financial institutions use discounting mechanisms to calculate the value of loans, lease payments, and other financial products. In practice, most financial instruments are based on analysing the present value of future payments.
 
-# • Business Project Analysis
+### Business Project Analysis
 
 Companies regularly analyse different investment projects, such as:
 
@@ -120,11 +120,11 @@ Examples of practical NPV applications include:
   * purchasing rental properties, 
   * startup valuation. 
 
-# • Real Estate
+### Real Estate
 
 Real estate investors use NPV to evaluate future rental income and the potential future selling value of a property. This helps assess whether a property investment is financially worthwhile.
 
-# • Financial Modelling and FP&A
+### Financial Modelling and FP&A
 
 In FP&A (Financial Planning & Analysis) departments, NPV is one of the foundations of financial modelling, forecasting, and scenario analysis.
 
