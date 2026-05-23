@@ -74,11 +74,11 @@ Therefore, for our further calculations, we will assume:
                                                "Discount Rate"=3%
 
  <p align="center">
-	 <img src="images/Obraz5NPV.jpg" width="700">
+	 <img src="Obraz5NPV.jpg" width="700">
  </p>
 
  <p align="center">
-	 <img src="images/Obraz6NPV.jpg" width="700">
+	 <img src="Obraz6NPV.jpg" width="700">
  </p>
 
 
