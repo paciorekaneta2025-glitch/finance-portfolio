@@ -13,7 +13,9 @@ This series is aimed particularly at individuals beginning their journey in fina
 
  ## 2. What is Net Present Value (NPV)?
 
-Today’s article is dedicated to the concept of NPV, which stands for Net Present Value — the present value of future money.
+
+Today’s article is dedicated to the concept of NPV, which stands for Net Present Value — the present value of future cash flows.
+
 NPV shows how much value an investment adds after taking into account both the initial investment cost and the time value of money.
 
  <p align="center">
