@@ -105,20 +105,20 @@ Banks and financial institutions use discounting mechanisms to calculate the val
 
 Companies regularly analyse different investment projects, such as:
 
-   *building new factories, 
-   *purchasing machinery, 
-   *technology investments, 
-   *expansion into new markets. 
+   * building new factories, 
+   * purchasing machinery, 
+   * technology investments, 
+   * expansion into new markets. 
 
 NPV helps determine whether future financial benefits will outweigh investment costs and whether a project will increase the value of the business.
 
 Examples of practical NPV applications include:
 
-  *purchasing new machinery, 
-  *building factories, 
-  *IT investments, 
-  *purchasing rental properties, 
-  *startup valuation. 
+  * purchasing new machinery, 
+  * building factories, 
+  * IT investments, 
+  * purchasing rental properties, 
+  * startup valuation. 
 
 • Real Estate
 
@@ -130,12 +130,12 @@ In FP&A (Financial Planning & Analysis) departments, NPV is one of the foundatio
 
 Analysts use NPV for:
 
-  *forecasting, 
-  *budgeting, 
-  *project valuation, 
-  *risk analysis, 
-  *strategic decision-making, 
-  *investment profitability assessment. 
+  * forecasting, 
+  * budgeting, 
+  * project valuation, 
+  * risk analysis, 
+  * strategic decision-making, 
+  * investment profitability assessment. 
 
 It can therefore be said that Net Present Value (NPV) is one of the foundations of modern finance, investment analysis, and business decision-making.
 
@@ -145,10 +145,10 @@ Situation B turns out to be financially more beneficial. Why? Because we receive
 In Situation A, we must wait 5 years for a single payment of £10,000. During that time, money loses part of its value due to the time value of money. Additionally, we lose the opportunity to use those funds earlier.
 Although the nominal cash flow in both cases equals £10,000, their Net Present Value (NPV) is different. Receiving money gradually over time is more valuable than receiving the same amount only in the future.
 That is why:
-	the NPV of Situation B is higher than the NPV of Situation A, 
-	earlier cash flows are more valuable, 
-	the timing of receiving money is extremely important in finance, 
-	the opportunity to invest money earlier increases the value of a project. 
+	^ the NPV of Situation B is higher than the NPV of Situation A, 
+	^ earlier cash flows are more valuable, 
+	^ the timing of receiving money is extremely important in finance, 
+	^ the opportunity to invest money earlier increases the value of a project. 
 This demonstrates why, in business and finance, it is important not only how much money we receive, but also when we receive it. In practice, two projects may generate the same nominal profit, yet the project providing earlier cash flows will usually be financially more attractive.
 It can therefore be said that Net Present Value (NPV) is one of the foundations of modern finance, investment analysis, and business decision-making.
 NPV is a highly useful tool; however, its result depends on the quality of forecasted cash flows and the selected discount rate. This means that even correctly performed calculations may lead to poor decisions if the project assumptions turn out to be unrealistic.
