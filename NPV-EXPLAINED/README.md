@@ -32,21 +32,26 @@ We meet with a very good friend of ours. He is a highly capable, hardworking, an
 
 The same friend offers a different solution. Instead of a single payment after 5 years, he will pay us £2,000 per year for the next 5 years in exchange for investing £2,000 in his business today. In total, we will still receive £10,000 in cash flow, but the money will be received gradually each year.
 Looking at these two situations, an important question arises:
+
 Which option is financially more beneficial?
-Is it better to invest £2,000 today and receive £10,000 after 5 years, or to invest £2,000 today and receive £2,000 every year for the next 5 years?
+Is it better to invest £2,000 today and 
+
+receive £10,000 after 5 years, or to invest £2,000 today and receive £2,000 every year for the next 5 years?
+
 These are exactly the types of questions that the concept of Net Present Value (NPV) helps answer.
 
 ## 3. Discount Rate
 
 To solve our problem and compare both situations, we first need to determine an appropriate discount rate, expressed as a percentage (%). It is the discount rate that allows us to determine how much less future money is worth compared to money available today.
+
 The discount rate can be understood as the cost of time, the cost of risk, and the loss of money’s value over time. It also takes into account the fact that money received today could be invested and generate additional profit in the future.
 
 In practice, the discount rate also depends on:
 
-    * the type of industry, 
-	* the level of project risk, 
-	* economic conditions, 
-	* and alternative investment opportunities. 
+     the type of industry, 
+	 the level of project risk, 
+	 economic conditions, 
+	 and alternative investment opportunities. 
 
 Simply put, the discount rate can be described as:
                 
@@ -56,10 +61,10 @@ The higher the discount rate, the greater the risk and the lower the value of fu
 
 The discount rate therefore shows how much future money loses value because of:
 
-    * the passage of time, 
-	* risk, 
-	* inflation, 
-	* alternative investment opportunities. 
+     the passage of time, 
+	 risk, 
+	 inflation, 
+	 alternative investment opportunities. 
 
 ## 4. Calculation
 
@@ -69,10 +74,10 @@ It is important to emphasize that such a low discount rate is often associated w
 
 Of course, in real-world finance, higher risk would usually result in a higher discount rate. However, in our example, we assume that:
 
-    * our friend is credible, 
-	* he has a stable financial situation, 
-	* he is responsible, 
-	* and the probability that he will fail to keep his promise is very low. 
+     our friend is credible, 
+	 he has a stable financial situation, 
+	 he is responsible, 
+	 and the probability that he will fail to keep his promise is very low. 
 
 Therefore, for our further calculations, we will assume: 
 
@@ -113,10 +118,10 @@ Business valuation is largely based on forecasted future cash flows. NPV helps d
 
 This method is widely used in:
 
-    * startup valuation, 
-	* company acquisitions, 
-	* venture capital analysis, 
-	* DCF (Discounted Cash Flow) models. 
+     startup valuation, 
+	 company acquisitions, 
+	 venture capital analysis, 
+	 DCF (Discounted Cash Flow) models. 
 
 ### Loans and Leasing
 
@@ -169,10 +174,10 @@ In Situation A, we must wait 5 years for a single payment of £10,000. During th
 Although the nominal cash flow in both cases equals £10,000, their Net Present Value (NPV) is different. Receiving money gradually over time is more valuable than receiving the same amount only in the future.
 That is why:
 
-	^ the NPV of Situation B is higher than the NPV of Situation A, 
-	^ earlier cash flows are more valuable, 
-	^ the timing of receiving money is extremely important in finance, 
-	^ the opportunity to invest money earlier increases the value of a project. 
+	 the NPV of Situation B is higher than the NPV of Situation A, 
+	 earlier cash flows are more valuable, 
+	 the timing of receiving money is extremely important in finance, 
+	 the opportunity to invest money earlier increases the value of a project. 
 
 This demonstrates why, in business and finance, it is important not only how much money we receive, but also when we receive it. In practice, two projects may generate the same nominal profit, yet the project providing earlier cash flows will usually be financially more attractive.
 It can therefore be said that Net Present Value (NPV) is one of the foundations of modern finance, investment analysis, and business decision-making.
