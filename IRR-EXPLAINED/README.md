@@ -70,6 +70,9 @@ So, for example, we may assume:
   * 7% 
 and then check what NPV we get.
 
+
+<img width="1284" height="830" alt="image" src="https://github.com/user-attachments/assets/d0a6ede6-92f9-4153-bac2-5846b9e70f2e" />
+
 ________________________________________
 
 #### Step 2 — Let’s test 10%
@@ -91,6 +94,10 @@ PV=379.07867
 Now we calculate NPV:
 
 NPV=-400+379.07867=-20.92132
+
+
+<img width="1284" height="838" alt="image" src="https://github.com/user-attachments/assets/29296cee-d9a0-4422-8792-30226c680148" />
+
 
 NPV is negative.
 
@@ -117,6 +124,9 @@ Now we calculate NPV:
 NPV=-400+410.019=10.019
 
 This time NPV is positive.
+
+<img width="1284" height="845" alt="image" src="https://github.com/user-attachments/assets/bbe005cc-ca55-4c0d-a085-6d3c673276f7" />
+
 
 This means that:
 
