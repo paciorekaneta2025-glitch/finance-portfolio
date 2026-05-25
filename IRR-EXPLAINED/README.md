@@ -72,7 +72,7 @@ and then check what NPV we get.
 
 ________________________________________
 
-#### Step 2 — Let’s Test 10%
+#### Step 2 — Let’s test 10%
 
 First, we calculate the Present Value of all future cash flows.
 
@@ -100,7 +100,7 @@ This means that:
 ###### the investment does not generate such a high return. 
 ________________________________________
 
-#### Step 3 — Let’s Test 7%
+#### Step 3 — Let’s test 7%
 
 Now we try a lower percentage.
 
