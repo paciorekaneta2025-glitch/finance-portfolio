@@ -1,5 +1,6 @@
 # Internal Rate of Return (IRR) and How Money Works Over Time — Explained in Simple Terms
 Aneta Paciorek, MAAT, ACCA Part-Qualified
+
 25 May 2026
 
 ## What is IRR?
