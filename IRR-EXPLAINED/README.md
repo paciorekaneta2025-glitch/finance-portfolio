@@ -3,7 +3,8 @@ Aneta Paciorek, MAAT, ACCA Part-Qualified
 
 25 May 2026
 
-## This short project explains IRR using a simple manual example and visual cash flow analysis.
+
+This short project explains IRR using a simple manual example and visual cash flow analysis.
 
 ## What is IRR?
 
