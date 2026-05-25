@@ -100,12 +100,6 @@ NPV=-400+379.07867=-20.92132
 <img width="1284" height="838" alt="image" src="https://github.com/user-attachments/assets/29296cee-d9a0-4422-8792-30226c680148" />
 
 
-NPV is negative.
-
-This means that:
-
-  ** 10% is too high, **
-** the investment does not generate such a high return.** 
 ________________________________________
 
 #### Step 3 — Let’s test 7%
@@ -129,10 +123,6 @@ This time NPV is positive.
 <img width="1284" height="845" alt="image" src="https://github.com/user-attachments/assets/bbe005cc-ca55-4c0d-a085-6d3c673276f7" />
 
 
-This means that:
-
-** 7% is too low,** 
-** the investment generates a higher return.** 
 ________________________________________
 
 ## Conclusion
