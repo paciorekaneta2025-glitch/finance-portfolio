@@ -58,7 +58,7 @@ Let’s assume that:
   * and then receive £100 per year for 5 years. 
 
 The question is:
-###### What percentage return does this investment generate?
+**  What percentage return does this investment generate? **
 
 #### Step 1 — We Guess the Interest Rate
 
@@ -67,7 +67,8 @@ When calculating IRR manually, we need to do a bit of “trial and error.”
 So, for example, we may assume:
 
   * 10% 
-  * 7% 
+  * 7%
+    
 and then check what NPV we get.
 
 
@@ -103,8 +104,8 @@ NPV is negative.
 
 This means that:
 
-  ###### 10% is too high, 
-###### the investment does not generate such a high return. 
+  ** 10% is too high, **
+** the investment does not generate such a high return.** 
 ________________________________________
 
 #### Step 3 — Let’s test 7%
@@ -130,8 +131,8 @@ This time NPV is positive.
 
 This means that:
 
-  ##### 7% is too low, 
- ###### the investment generates a higher return. 
+** 7% is too low,** 
+** the investment generates a higher return.** 
 ________________________________________
 
 ## Conclusion
@@ -145,7 +146,7 @@ our IRR must be somewhere between 7% and 10%.
 
 In practice:
 
-IRR≈7.9%
+IRR≈ 7.93% (around 7.9%)
 
 And it is exactly at this interest rate that:
 
