@@ -175,3 +175,18 @@ This allows us to evaluate:
      
 And that is exactly why NPV and IRR are so important in finance, investing, and financial modelling.
 
+## Important Note About IRR
+
+Although IRR is a very useful financial metric, it is not always perfect.
+
+In projects with unusual or irregular cash flows, IRR can sometimes produce misleading or unrealistic results.
+
+That is why, in real financial analysis, IRR is often used together with:
+
+- NPV,
+
+- cash flow analysis,
+
+- risk assessment,
+
+- and other financial metrics.
