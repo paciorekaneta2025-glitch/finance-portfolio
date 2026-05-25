@@ -57,7 +57,7 @@ Let’s assume that:
   * and then receive £100 per year for 5 years. 
 
 The question is:
-####### What percentage return does this investment generate?
+###### What percentage return does this investment generate?
 
 #### Step 1 — We Guess the Interest Rate
 
@@ -96,7 +96,7 @@ NPV is negative.
 This means that:
 
   ###### 10% is too high, 
-	####### the investment does not generate such a high return. 
+###### the investment does not generate such a high return. 
 ________________________________________
 
 #### Step 3 — Let’s Test 7%
@@ -120,7 +120,7 @@ This time NPV is positive.
 This means that:
 
   ##### 7% is too low, 
-	##### the investment generates a higher return. 
+ ###### the investment generates a higher return. 
 ________________________________________
 
 ## Conclusion
