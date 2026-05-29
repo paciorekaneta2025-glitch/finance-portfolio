@@ -121,6 +121,8 @@ After 3 years, an investment of £1,000 grows to approximately:
 
 £1,157.63
 
+<img width="1284" height="1276" alt="image" src="https://github.com/user-attachments/assets/a1dfeea1-7534-470d-b38b-98cef313b849" />
+
 
 ### Why Is Future Value Important?
 
