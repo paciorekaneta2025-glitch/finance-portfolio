@@ -152,7 +152,9 @@ The Most Important Observation
 The longer money remains invested, the faster it grows.
 
 This happens because of compound interest:
+
 * Interest earned on an investment begins to generate additional interest over time.
+
 * As a result, time becomes one of the most important factors in finance and investing.
 
 Many people focus primarily on the amount they invest, but in reality, the length of time the money remains invested can have an even greater impact on the final outcome.
@@ -162,6 +164,7 @@ Many people focus primarily on the amount they invest, but in reality, the lengt
 In finance, we often encounter situations where we do not invest one large lump sum at the beginning. Instead, we make regular contributions of the same amount each year.
 
 This approach is commonly used in:
+
 *	Retirement plans 
 *	Savings accounts 
 *	Investment funds 
@@ -175,6 +178,7 @@ Unlike the simple Future Value example, where only one initial investment is mad
 Example
 
 Assume the following:
+
 *	Annual deposit: £1,000 
 *	Interest rate: 10% per year 
 *	Investment period: 10 years 
