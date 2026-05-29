@@ -10,12 +10,13 @@ At first glance, it looks very simple:
 
 For example:
 
-YEAR	PAYMENT
-1	£100
-2	£100
-3	£100
-4	£100
-5	£100
+|YEAR  | PAYMENT
+|------|------
+|1     | £100
+|2	   | £100
+|3	   | £100
+|4	   | £100
+|5	   | £100
 
 Important note: although the payment amount remains the same throughout the loan term, the composition of each payment changes over time.
 
