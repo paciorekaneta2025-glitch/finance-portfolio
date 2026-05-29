@@ -129,23 +129,23 @@ Future Value is the foundation of many financial concepts because it demonstrate
 
 Understanding Future Value helps explain:
 
-•	How savings accounts grow 
-•	How investment portfolios accumulate wealth 
-•	How pension funds increase over time 
-•	Why starting to save early can make a significant difference 
-•	The relationship between Present Value (PV) and Future Value (FV) 
+*   How savings accounts grow 
+*	How investment portfolios accumulate wealth 
+*	How pension funds increase over time 
+*	Why starting to save early can make a significant difference 
+*	The relationship between Present Value (PV) and Future Value (FV) 
 
 Before moving on to more advanced retirement calculations involving regular contributions, annuities, and pension planning, it is essential to understand how a single lump-sum investment grows through compounding over time.
 
 #### Why Is Future Value Important?
 
 Future Value helps us:
-•	Plan investments 
-•	Build savings 
-•	Analyse retirement plans 
-•	Create financial forecasts 
-•	Better understand compound interest 
-________________________________________
+*	Plan investments 
+*	Build savings 
+*	Analyse retirement plans 
+*	Create financial forecasts 
+*	Better understand compound interest 
+
 The Most Important Observation
 
 The longer money remains invested, the faster it grows.
@@ -161,24 +161,66 @@ Many people focus primarily on the amount they invest, but in reality, the lengt
 In finance, we often encounter situations where we do not invest one large lump sum at the beginning. Instead, we make regular contributions of the same amount each year.
 
 This approach is commonly used in:
-•	Retirement plans 
-•	Savings accounts 
-•	Investment funds 
-•	ISA accounts 
-•	Long-term wealth-building strategies 
+*	Retirement plans 
+*	Savings accounts 
+*	Investment funds 
+*	ISA accounts 
+*	Long-term wealth-building strategies 
 
 Assume that we contribute the same deposit at the beginning of each year. Each contribution starts earning interest and benefits from the power of compound growth.
 
 Unlike the simple Future Value example, where only one initial investment is made, here multiple deposits are made over time. Because earlier deposits remain invested for longer, they earn more interest than later deposits.
-________________________________________
+
 Example
 
 Assume the following:
-•	Annual deposit: £1,000 
-•	Interest rate: 10% per year 
-•	Investment period: 10 years 
-•	Deposits are made at the beginning of each year 
+*	Annual deposit: £1,000 
+*	Interest rate: 10% per year 
+*	Investment period: 10 years 
+*	Deposits are made at the beginning of each year 
 
 <img width="840" height="753" alt="image" src="https://github.com/user-attachments/assets/6addf8d6-b0c8-42eb-a68d-e54a2774522d" />
+
+In this case, the Future Value of the investment will be approximately £17,531.
+
+The most important concept to understand is that:
+	* The first deposit earns interest for the full 10 years. 
+	* The second deposit earns interest for 9 years. 
+	* The third deposit earns interest for 8 years. 
+	* And so on. 
+
+As a result, wealth grows not only because of the additional deposits being made each year, but also because of the compound interest earned on earlier contributions.
+
+This creates a powerful snowball effect, where both the invested capital and the accumulated interest continue to generate additional returns over time.
+
+Mathematically, this model is known as:
+
+#### Future Value of an Annuity Due 
+
+An Annuity Due refers to a series of equal payments made at the beginning of each period.
+
+The Future Value of an Annuity Due can be calculated using the following formula:
+
+#### FV=PMT×(1+r)^n-1┤/r×(1+r)
+
+Where:
+*	FV = Future Value 
+*	PMT = Annual deposit 
+*	r = Interest rate per period 
+*	n = Number of periods 
+
+This is precisely why regular contributions, even relatively small ones, can grow into substantial wealth over time.
+
+In practice, this is one of the most important concepts used in:
+	* Retirement planning 
+	* Pension schemes 
+	* ISA and investment accounts 
+	* Long-term wealth accumulation 
+	* Financial modelling and forecasting 
+
+The key lesson is simple:
+
+Building wealth is often less about investing a large amount at once and more about investing consistently and giving compound interest enough time to work.
+
 
 
