@@ -137,8 +137,6 @@ Understanding Future Value helps explain:
 
 Before moving on to more advanced retirement calculations involving regular contributions, annuities, and pension planning, it is essential to understand how a single lump-sum investment grows through compounding over time.
 
-#### Why Is Future Value Important?
-
 Future Value helps us:
 *	Plan investments 
 *	Build savings 
