@@ -121,7 +121,6 @@ After 3 years, an investment of £1,000 grows to approximately:
 
 £1,157.63
 
-<img width="1284" height="816" alt="image" src="https://github.com/user-attachments/assets/9fddea61-7bbb-4747-ba98-a3d46ec77d91" />
 
 ### Why Is Future Value Important?
 
@@ -182,10 +181,11 @@ Assume the following:
 In this case, the Future Value of the investment will be approximately £17,531.
 
 The most important concept to understand is that:
-	* The first deposit earns interest for the full 10 years. 
-	* The second deposit earns interest for 9 years. 
-	* The third deposit earns interest for 8 years. 
-	* And so on. 
+
+* The first deposit earns interest for the full 10 years. 
+* The second deposit earns interest for 9 years. 
+* The third deposit earns interest for 8 years. 
+* And so on. 
 
 As a result, wealth grows not only because of the additional deposits being made each year, but also because of the compound interest earned on earlier contributions.
 
@@ -202,6 +202,7 @@ The Future Value of an Annuity Due can be calculated using the following formula
 #### FV=PMT×(1+r)^n-1┤/r×(1+r)
 
 Where:
+
 *	FV = Future Value 
 *	PMT = Annual deposit 
 *	r = Interest rate per period 
@@ -210,6 +211,7 @@ Where:
 This is precisely why regular contributions, even relatively small ones, can grow into substantial wealth over time.
 
 In practice, this is one of the most important concepts used in:
+	
 	* Retirement planning 
 	* Pension schemes 
 	* ISA and investment accounts 
