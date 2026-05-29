@@ -1,6 +1,8 @@
 
+# Part 1: Flat Payment Schedules Explained
+Building the Foundations of Financial Planning
 
-## 1
+## 1. 
 
 #### In this article, I will try to shed some light on the topic of retirement planning. However, to understand retirement concepts properly, it is important to first understand flat payment schedules. This is a fundamental concept for understanding loan tables and amortisation schedules.
 
