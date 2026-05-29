@@ -20,29 +20,24 @@ For example:
 
 Important note: although the payment amount remains the same throughout the loan term, the composition of each payment changes over time.
 
-Payment Component	What Happens
-
-Interest	High at the beginning, then gradually decreases
-
-Principal Repayment	Low at the beginning, then gradually increases
-
-Loan Balance	Decreases until it reaches zero
+|Payment  Component | 	What Happens
+|-------------------|----------------
+|Interest           | High at the beginning, then gradually decreases
+|Principal Repayment| Low at the beginning, then gradually increases
+|Loan Balance	    | Decreases until it reaches zero
 
 In reality, each payment consists of two components:
 
-  Interest 
-	
-  Principal Repayment 
+  * Interest 	
+  * Principal Repayment 
 
 At the beginning of the repayment period, a larger portion of the payment goes toward interest because the outstanding loan balance is still high. As the balance decreases over time, the interest charged on the loan also becomes smaller. As a result, a larger portion of each payment is applied to repaying the principal.
 
 As a consequence:
 
-  Interest ↓ decreases 
-	
-  Principal Repayment ↑ increases 
-	
-  Loan Balance ↓ falls to zero 
+  * Interest ↓ decreases 	
+  * Principal Repayment ↑ increases 
+  * Loan Balance ↓ falls to zero 
 
 To calculate the constant payment amount, the PMT formula is used:
 
