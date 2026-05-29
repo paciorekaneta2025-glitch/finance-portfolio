@@ -66,3 +66,61 @@ Flat Payment Schedules are extremely important in financial modelling because th
 Understanding flat payment schedules is often the first step toward understanding more advanced financial concepts, including investment appraisal and retirement planning models.
 
 <img width="1284" height="692" alt="image" src="https://github.com/user-attachments/assets/463bc493-6d3f-4e1d-81d4-970f1d144b2c" />
+
+
+## 2. Understanding Simple Future Value – The Future Value of Money
+
+A Flat Payment Schedule shows how a single fixed payment repays a loan over time — part of the payment goes toward interest, while the remainder reduces the principal balance until the loan is fully repaid.
+This concept serves as the bridge between IRR calculations and a loan amortisation table.
+
+### What is Future Value?
+
+Future Value (FV) represents how much money invested today will be worth at a future date after earning interest.
+
+Put simply:
+
+Future Value helps us estimate how money grows over time.
+
+It is one of the fundamental concepts used in:
+
+	* Investing 
+	* Saving 
+	* Loans and credit 
+	* Retirement planning 
+	* Financial modelling 
+
+A Simple Example
+
+Suppose you invest:
+ 
+	* £1,000 
+	* At an annual interest rate of 5% 	
+	* For 3 years 
+
+Your money grows each year because the interest earned is added to the investment balance.
+
+Future Value Formula
+
+#### FV=PV(1+r)n
+
+Where:
+	* FV = Future Value 
+	* PV = Present Value (the amount invested today) 
+	* r = annual interest rate 
+	* n = number of years
+
+Calculation
+
+FV=1000(1+0.05)^3
+
+Result:
+
+FV≈1,157.63
+
+After 3 years, an investment of £1,000 grows to approximately:
+
+£1,157.63
+
+
+
+
