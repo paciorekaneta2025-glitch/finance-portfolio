@@ -65,3 +65,4 @@ Flat Payment Schedules are extremely important in financial modelling because th
   
 Understanding flat payment schedules is often the first step toward understanding more advanced financial concepts, including investment appraisal and retirement planning models.
 
+<img width="1284" height="692" alt="image" src="https://github.com/user-attachments/assets/463bc493-6d3f-4e1d-81d4-970f1d144b2c" />
