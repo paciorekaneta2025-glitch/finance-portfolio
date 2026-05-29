@@ -121,6 +121,7 @@ After 3 years, an investment of £1,000 grows to approximately:
 
 £1,157.63
 
+<img width="1284" height="816" alt="image" src="https://github.com/user-attachments/assets/9fddea61-7bbb-4747-ba98-a3d46ec77d91" />
 
 
 
