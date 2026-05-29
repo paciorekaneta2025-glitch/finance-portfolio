@@ -123,5 +123,59 @@ After 3 years, an investment of £1,000 grows to approximately:
 
 <img width="1284" height="816" alt="image" src="https://github.com/user-attachments/assets/9fddea61-7bbb-4747-ba98-a3d46ec77d91" />
 
+### Why Is Future Value Important?
 
+Future Value is the foundation of many financial concepts because it demonstrates the effect of compound interest.
+
+Understanding Future Value helps explain:
+
+•	How savings accounts grow 
+•	How investment portfolios accumulate wealth 
+•	How pension funds increase over time 
+•	Why starting to save early can make a significant difference 
+•	The relationship between Present Value (PV) and Future Value (FV) 
+
+Before moving on to more advanced retirement calculations involving regular contributions, annuities, and pension planning, it is essential to understand how a single lump-sum investment grows through compounding over time.
+
+#### Why Is Future Value Important?
+
+Future Value helps us:
+•	Plan investments 
+•	Build savings 
+•	Analyse retirement plans 
+•	Create financial forecasts 
+•	Better understand compound interest 
+________________________________________
+The Most Important Observation
+
+The longer money remains invested, the faster it grows.
+
+This happens because of compound interest:
+* Interest earned on an investment begins to generate additional interest over time.
+* As a result, time becomes one of the most important factors in finance and investing.
+
+Many people focus primarily on the amount they invest, but in reality, the length of time the money remains invested can have an even greater impact on the final outcome.
+
+## 3. Future Value with Annual Deposits
+
+In finance, we often encounter situations where we do not invest one large lump sum at the beginning. Instead, we make regular contributions of the same amount each year.
+
+This approach is commonly used in:
+•	Retirement plans 
+•	Savings accounts 
+•	Investment funds 
+•	ISA accounts 
+•	Long-term wealth-building strategies 
+
+Assume that we contribute the same deposit at the beginning of each year. Each contribution starts earning interest and benefits from the power of compound growth.
+
+Unlike the simple Future Value example, where only one initial investment is made, here multiple deposits are made over time. Because earlier deposits remain invested for longer, they earn more interest than later deposits.
+________________________________________
+Example
+
+Assume the following:
+•	Annual deposit: £1,000 
+•	Interest rate: 10% per year 
+•	Investment period: 10 years 
+•	Deposits are made at the beginning of each year 
 
