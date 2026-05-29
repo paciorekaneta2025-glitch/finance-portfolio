@@ -41,26 +41,26 @@ As a consequence:
 
 To calculate the constant payment amount, the PMT formula is used:
 
-PMT=(r⋅PV)/(1-(1+r)^(-n) )
+#### PMT=(r⋅PV)/(1-(1+r)^(-n) )
 
-Where:
+Where: 
 
-  PV — Present Value (loan amount) 
-	r — interest rate per period 
-	n — number of periods 
-	PMT — constant payment amount 
+  * PV — Present Value (loan amount) 
+  * r — interest rate per period 
+  * n — number of periods 
+  * PMT — constant payment amount 
 
 In Google Sheets or Microsoft Excel, the same calculation can be performed using the PMT() function.
 
 Flat Payment Schedules are extremely important in financial modelling because they help us understand:
 
-  How loans and credit facilities work 
+* How loans and credit facilities work 
 	
-  Debt amortisation 
+* Debt amortisation 
 	
-  The relationship between cash flow and interest expenses 
-	
-  The foundations of IRR (Internal Rate of Return), NPV (Net Present Value), and Discounted Cash Flow (DCF) analysis 
+* The relationship between cash flow and interest expenses 
+
+* The foundations of IRR (Internal Rate of Return), NPV (Net Present Value), and Discounted Cash Flow (DCF) analysis 
 
   
 Understanding flat payment schedules is often the first step toward understanding more advanced financial concepts, including investment appraisal and retirement planning models.
