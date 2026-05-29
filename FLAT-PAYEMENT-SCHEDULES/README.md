@@ -179,3 +179,6 @@ Assume the following:
 •	Investment period: 10 years 
 •	Deposits are made at the beginning of each year 
 
+<img width="840" height="753" alt="image" src="https://github.com/user-attachments/assets/6addf8d6-b0c8-42eb-a68d-e54a2774522d" />
+
+
